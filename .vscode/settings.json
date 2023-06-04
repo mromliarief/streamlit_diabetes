@@ -1,0 +1,14 @@
+{
+  "editor.fontFamily": "Menlo-Regular",
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "expand",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.preferredHighContrastLightColorTheme": "Dracula",
+  "workbench.preferredHighContrastColorTheme": "Dracula",
+  "editor.minimap.enabled": false,
+  "editor.lineHeight": 20,
+  "editor.fontSize": 18,
+  "editor.fontWeight": "normal",
+  "python.analysis.typeCheckingMode": "basic"
+}
